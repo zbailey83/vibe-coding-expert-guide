@@ -1,7 +1,8 @@
 # 🧠 VIBE CODING EXPERT COURSE - Web Page
 
 This project is a simple static web page showcasing the content for the VIBE CODING EXPERT COURSE.
-vibengineer.netlify.app
+
+# https://vibengineer.netlify.app
 
 ## Features
 
