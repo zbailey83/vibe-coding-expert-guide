@@ -4,6 +4,8 @@ This project is a simple static web page showcasing the content for the VIBE COD
 
 # https://vibengineer.netlify.app
 
+## https://page.genspark.site/page/toolu_0172UouaE3bcx7r9H8xJeoLz/vibe_coding_experts_skool_community_plan.html
+
 ## Features
 
 - Single-page layout with navigation.
